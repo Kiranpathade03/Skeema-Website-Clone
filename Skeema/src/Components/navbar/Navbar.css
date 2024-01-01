@@ -1,0 +1,21 @@
+ .main{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    justify-content: space-between;
+    height: 40px;
+ 
+    
+ }
+  .img{
+  position: relative;
+  right: 4px;
+    height: 50px;
+    width:70px;
+  }
+
+.objects a{
+    color: white;
+    margin-right: 10px;
+ position: relative;
+ top: 8px;
+}

@@ -1,0 +1,7 @@
+material ui
+tailwindcss
+bootstrap
+react hook form
+react select
+
+for of for in
